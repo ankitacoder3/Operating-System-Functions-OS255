@@ -16,7 +16,7 @@
   #### 3. Open the individual directories path in terminal.
   #### 4. Type "gcc <filename>" to execute the files in that directory.
   ###
-  #### Note- This is from the course UE20CS254.
+  ###### Note- This is from the course UE20CS254.
   ###
   ###
   
