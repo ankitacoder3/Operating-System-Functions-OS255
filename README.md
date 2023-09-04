@@ -4,7 +4,7 @@
 ###
 
 ## Summary:
-#### This repo contaians codes for various operating system functions etc...
+#### This repo contaians codes for various operating system functions, like scheduling, pipes, wait, threads etc... 
 ###
 ###
 
