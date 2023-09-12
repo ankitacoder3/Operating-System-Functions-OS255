@@ -16,6 +16,9 @@
 
 ![image](https://github.com/ankitacoder3/Operating-System-Functions/assets/73939061/5d5db933-40ce-46be-b70f-16ccb9526c02)
 
+![image](https://github.com/ankitacoder3/Operating-System-Functions/assets/73939061/919b667b-327d-4541-b0f2-fae12144f992)
+
+
 
 
 ###
