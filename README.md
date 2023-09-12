@@ -12,7 +12,6 @@
 ## Steps for execution:
 
   #### 1. Clone the 'Operating-System-Functions' github repository.
-  #### 
   ```sh 
   git clone https://github.com/ankitacoder3/Operating-System-Functions.git 
   ```
