@@ -10,6 +10,10 @@
 
 ## Content
 * Summary
+* Prerequisites and Techstack
+* Steps for execution
+* Usage
+* Contributing
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </br>
