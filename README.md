@@ -4,18 +4,24 @@
 ###
 ###
 ###
+
 </br>
+
 ## Summary:
 #### This repo contaians codes for various operating system functions, like scheduling, pipes, wait, threads etc... 
 ###
 ###
+
 </br>
+
 ## Prerequisites and techstack:
 * C
 * Operating system concepts
 ###
 ###
+
 </br>
+
 ## Steps for execution:
 
   #### 1. Clone the ``` 'Operating-System-Functions' ``` github repository.
@@ -31,7 +37,7 @@
   ```sh
   cd Processes
   ```
-  #### 4. Type ``` "gcc <-filename->" ``` to execute the files in that directory. Say, 
+      #### 4. Type ``` "gcc <-filename->" ``` to execute the files in that directory. Say, 
   ```sh
   gcc orphan.c
   ```
@@ -39,8 +45,11 @@
   ###### 
   ###
   ###
+  
 </br>
+
 ## Usage:
 * This shall provide a better understanding of operating system concepts.
 * This provides a practical approach for the operating system concepts.
+  
   </br>
