@@ -9,7 +9,7 @@
 </br>
 
 <details>
-  <summary>Table of Contents</summary>
+  <summary color= blue >Table of Contents</summary>
 <li>Summary</li>
 <li> Prerequisites and Techstack</li>
 <li> Steps for execution</li>
