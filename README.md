@@ -35,13 +35,13 @@
   cd Operating-System-Functions
   cd Operating_System
   ```
-  3. Open the ```individual directories path``` in terminal.  Say, 
+  3. Open the ```individual directories path``` in terminal.  Say, open 'Processes' directory.
   ```sh
   cd Processes
   ```
-  4. Type ``` "gcc <-filename->" ``` to execute the files in that directory. Say, 
+  4. Type ``` "gcc <-filename->" ``` to execute the files in that directory. Say, run 'zombie.c'.
   ```sh
-  gcc orphan.c
+  gcc zombie.c
   ```
   ###
   ###### 
