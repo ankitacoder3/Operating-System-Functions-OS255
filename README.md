@@ -17,6 +17,7 @@
   ```
   #### 2. Navigate to the 'Operating_System' Directory in that.
   ```sh
+  cd Operating-System-Functions
   cd Operating_System
   ```
   #### 3. Open the individual directories path in terminal.  
