@@ -20,11 +20,11 @@
   cd Operating-System-Functions
   cd Operating_System
   ```
-  #### 3. Open the individual directories path in terminal.  Say, 
+  #### 3. Open the ```individual directories path``` in terminal.  Say, 
   ```sh
   cd Processes
   ```
-  #### 4. Type "gcc <-filename->" to execute the files in that directory. Say, 
+  #### 4. Type ``` "gcc <-filename->" ``` to execute the files in that directory. Say, 
   ```sh
   gcc orphan.c
   ```
