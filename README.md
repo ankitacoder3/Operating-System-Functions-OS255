@@ -11,7 +11,9 @@
 
 ## Summary
 #### This repo contaians codes for various operating system functions, like scheduling, pipes, wait, threads etc... 
-![image](https://github.com/ankitacoder3/Operating-System-Functions/assets/73939061/300cda78-085e-476f-9c75-6b19877b2434)
+<!--![image](https://github.com/ankitacoder3/Operating-System-Functions/assets/73939061/300cda78-085e-476f-9c75-6b19877b2434)-->
+![image](https://github.com/ankitacoder3/Operating-System-Functions/assets/73939061/a4e72d3b-aff0-4692-aa40-5203b9dbee6c)
+
 
 ###
 ###
