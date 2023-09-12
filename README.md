@@ -2,7 +2,7 @@
 
 # Operating-System-Functions
 ###
-![image](https://github.com/ankitacoder3/Operating-System-Functions/assets/73939061/981eeb0c-651b-4ea4-9eb9-38753a07f740)
+<!---![image](https://github.com/ankitacoder3/Operating-System-Functions/assets/73939061/981eeb0c-651b-4ea4-9eb9-38753a07f740)-->
 
 ###
 ###
