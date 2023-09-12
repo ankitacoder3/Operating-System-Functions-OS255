@@ -10,15 +10,14 @@
 
 <details>
   <summary>Table of Contents</summary>
-## Content
-* Summary
-* Prerequisites and Techstack
-* Steps for execution
-* Usage
-* Contributing
+<li>Summary</li>
+<li> Prerequisites and Techstack</li>
+<li> Steps for execution</li>
+<li> Usage</li>
+<li>Contributing</li>
 </details>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 </br>
 
 ## Summary
