@@ -8,12 +8,15 @@
 ###
 </br>
 
+<details>
+  <summary>Table of Contents</summary>
 ## Content
 * Summary
 * Prerequisites and Techstack
 * Steps for execution
 * Usage
 * Contributing
+</details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </br>
