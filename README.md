@@ -16,7 +16,10 @@
   git clone https://github.com/ankitacoder3/Operating-System-Functions.git 
   ```
   #### 2. Navigate to the 'Operating_System' Directory in that.
-  #### 3. Open the individual directories path in terminal.
+  ```sh
+  cd Operating_System
+  ```
+  #### 3. Open the individual directories path in terminal.  
   #### 4. Type "gcc <-filename->" to execute the files in that directory.
   ###
   ###### 
