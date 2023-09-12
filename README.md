@@ -4,18 +4,18 @@
 ###
 ###
 ###
-
+</br>
 ## Summary:
 #### This repo contaians codes for various operating system functions, like scheduling, pipes, wait, threads etc... 
 ###
 ###
-
+</br>
 ## Prerequisites and techstack:
 * C
 * Operating system concepts
 ###
 ###
-
+</br>
 ## Steps for execution:
 
   #### 1. Clone the ``` 'Operating-System-Functions' ``` github repository.
@@ -39,5 +39,8 @@
   ###### 
   ###
   ###
-  
-  #
+</br>
+## Usage:
+* This shall provide a better understanding of operating system concepts.
+* This provides a practical approach for the operating system concepts.
+  </br>
