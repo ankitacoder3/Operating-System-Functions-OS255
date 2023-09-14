@@ -87,8 +87,7 @@
 6. Open a Pull Request
 
 * License
-  {repo_name} = Operating_System
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg)]({repo_name}/LICENSE)
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](Operating_System/LICENSE)
 
 
 
