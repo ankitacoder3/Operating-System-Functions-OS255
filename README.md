@@ -21,6 +21,9 @@
 
 ## Summary
 
+
+### This repository contaians codes for various operating system functions, like scheduling, pipes, wait, threads etc.
+
 * Here is the structure of the project repository:
 <details>
 <summary color=blue> Repository Structure </summary>
