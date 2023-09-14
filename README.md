@@ -92,4 +92,7 @@
 5. Push to the Branch (`git push origin functions`)
 6. Open a Pull Request
 
+*License
+[![MIT License][license-shield]][license-url]
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
