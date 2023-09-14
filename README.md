@@ -93,7 +93,7 @@
 6. Open a Pull Request
 
 * License
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](repo_name/LICENSE)
 
 [![MIT License][license-shield]][license-url]
 
