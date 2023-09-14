@@ -86,14 +86,6 @@
 5. Push to the Branch (`git push origin functions`)
 6. Open a Pull Request
 
-* License
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](Operating_System/LICENSE)
-
-
-
-[![MIT License][license-shield]][license-url]
-
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/GPL.txt-->
+* [![License](https://img.shields.io/badge/License-MIT-blue.svg)](Operating_System/LICENSE)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
