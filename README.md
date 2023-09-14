@@ -93,7 +93,7 @@
 6. Open a Pull Request
 
 * License
-[![MIT License][license-shield]][license-url]
+[![GPL License][license-shield]][license-url]
 
 [license-shield]: https://img.shields.io/github/license/ankitacoder3/Operating-System-Functions.svg?style=for-the-badge
 [license-url]: https://github.com/ankitacoder3/Operating-System-Functions/blob/master/LICENSE.txt
