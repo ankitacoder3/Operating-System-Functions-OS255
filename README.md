@@ -95,7 +95,7 @@
 * License
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-<!--[![GPL License][license-shield]][license-url]
+[![MIT License][license-shield]][license-url]
 
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo_name/blob/master/GPL.txt-->
