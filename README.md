@@ -95,4 +95,7 @@
 * License
 [![MIT License][license-shield]][license-url]
 
+[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
+[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
