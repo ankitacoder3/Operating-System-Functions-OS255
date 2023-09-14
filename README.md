@@ -21,18 +21,13 @@
 
 </br>
 
-## Contents of this Repository
-#### This repository contains various folders like Pipe, Processes, etc.
-<!--![image](https://github.com/ankitacoder3/Operating-System-Functions/assets/73939061/300cda78-085e-476f-9c75-6b19877b2434)-->
-# Project Name
-
-Briefly describe your project here.
 
 ## Repository Structure
 
 Here is the structure of the project repository:
 
-```plaintext
+```
+plaintext
 my-project-repo/
 ├── src/                # Source code
 │   ├── main/           # Main application code
