@@ -2,7 +2,7 @@
 
 # Operating-System-Functions
 ###
-### This repository contaians codes for various operating system functions, like scheduling, pipes, wait, threads etc.
+### This repository contains implementation of operating system functions and concepts.
 <!---![image](https://github.com/ankitacoder3/Operating-System-Functions/assets/73939061/981eeb0c-651b-4ea4-9eb9-38753a07f740)-->
 
 ###
@@ -21,11 +21,10 @@
 
 ## Summary
 
+### This repository contaians codes for various operating system functions and concepts, like scheduling, pipes, wait, threads etc.
 
-### This repository contaians codes for various operating system functions, like scheduling, pipes, wait, threads etc.
-
-* Here is the structure of the project repository:
 <details>
+  * Here is the structure of the project repository:
 <summary color=blue> Repository Structure </summary>
   
 ```plaintext
