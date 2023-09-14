@@ -21,7 +21,7 @@
 
 ## Summary
 
-### This repository contaians codes for various operating system functions and concepts, like scheduling, pipes, wait, threads etc.
+### This repo contains codes for various operating system functions and concepts, like scheduling, pipes, fork-wait, threads etc.
 
 <details>
   Here is the structure of the project repository:
