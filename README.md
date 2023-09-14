@@ -19,22 +19,58 @@
 </br>
 
 
-## Repository Structure
+## Summary
 
 Here is the structure of the project repository:
-
+<details>
+<summary color=blue> Repository Structure </summary>
+  
 ```plaintext
 Operating-System-Functions/
-├── Operating_System/                
-│   ├── main/           # Main application code
-|   ├── 
+├── Operating_System/   # Main Folder             
+│   ├── Fork_Wait_Exec/
+│   │   ├── example1.c
+│   │   ├── example1a.c
+│   │   ├── example2.c
+│   │   ├── example3.c
+│   │   └──example4.c      
+│   ├── Pipes/
+│   │   ├── demo_pipe.c
+│   │   ├── fifo_read.c
+│   │   ├── fifo_write.c
+│   │   ├── msgq_read.c
+│   │   ├── msgq_write.c
+│   │   ├── shm_read.c
+│   │   └── shm_write.c
+│   ├── Processes/
+│   │   ├── orphan.c
+│   │   ├── welcome.c
+│   │   └── zombie.c  
+│   ├── Programming_Exercise/
+│   │   ├── P1/
+│   │   │   ├── p1_q3.c
+│   │   │   └── sum.c
+│   │   └── P2_P3_P4_P5/
+│   │   │   ├── p2.c
+│   │   │   ├── p3.c
+│   │   │   ├── p4.c
+│   │   │   └── p5.c
+│   ├── Scheduling_codes/
+│   │   ├── fcfs.c
+│   │   ├── priority.c
+│   │   ├── round_robin.c
+│   │   ├── sjf.c
+│   │   └── srtf.c
+│   ├── Threads/
+│   │   ├── demo_threads.c
+│   │   └── demo_threads_tb.c  
 │   └── LICENSE        
 ├── README.md           # Repository README
 ├── .gitignore          # Git ignore file
 └── .gitattributes      # Git attributes file (e.g., for line endings)
 ```
 
-
+</details>
 
 ###
 ###
