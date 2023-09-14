@@ -21,7 +21,7 @@
 
 </br>
 
-## Summary
+## Contents of this Repository
 #### This repository contains various folders like Pipe, Processes, etc.
 <!--![image](https://github.com/ankitacoder3/Operating-System-Functions/assets/73939061/300cda78-085e-476f-9c75-6b19877b2434)-->
 
