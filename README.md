@@ -7,7 +7,6 @@
 
 ###
 ###
-</br>
 
 <details>
   <summary color= blue >Table of Contents</summary>
@@ -17,8 +16,6 @@
 <li> Usage</li>
 <li>Contributing</li>
 </details>
-
-
 </br>
 
 
@@ -27,20 +24,12 @@
 Here is the structure of the project repository:
 
 ```plaintext
-my-project-repo/
-├── src/                # Source code
+Operating-System-Functions/
+├── Operating_System/                
 │   ├── main/           # Main application code
-│   └── lib/            # Library or module code
-├── tests/              # Test cases and test data
-├── docs/               # Documentation
-│   ├── user_guide.md   # User guide
-│   ├── developer_docs/ # Developer documentation
-│   └── api_reference/   # API reference
-├── data/               # Data files
-├── config/             # Configuration files
-├── scripts/            # Helper scripts
-├── LICENSE             # License file
-├── README.md           # Project README
+|   ├── 
+│   └── LICENSE        
+├── README.md           # Repository README
 ├── .gitignore          # Git ignore file
 └── .gitattributes      # Git attributes file (e.g., for line endings)
 ```
