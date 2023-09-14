@@ -69,7 +69,7 @@ Operating-System-Functions/
 │   └── LICENSE        
 ├── README.md           # Repository README
 ├── .gitignore          # Git ignore file
-└── .gitattributes      # Git attributes file (e.g., for line endings)
+└── .gitattributes      # Git attributes file 
 ```
 
 </details>
